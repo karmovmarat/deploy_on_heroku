@@ -1,6 +1,6 @@
 {
   "name": "myapp",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "private": true,
   "description": "node http request interval",
   "scripts": {
